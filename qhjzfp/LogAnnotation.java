@@ -32,7 +32,7 @@ public @interface LogAnnotation {
     /**
      * 描述信息
      */
-    String describe() default "";
+    String describe() default "这是初次提交";
 	
 	
 	
