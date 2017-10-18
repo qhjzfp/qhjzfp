@@ -1,4 +1,4 @@
-/**
+﻿/**
  * 甘肃省精准扶贫平台
  * 项目  JZFP-core 
  * 创建时间  2015-6-14 下午04:10:23 
@@ -8,7 +8,7 @@
 
 package com.gsww.jzfp.core.aop;
 
-import java.lang.annotation.Documented;
+import java.lang.annotation.Documented大多数;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
