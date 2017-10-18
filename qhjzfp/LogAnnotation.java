@@ -33,5 +33,8 @@ public @interface LogAnnotation {
      * 描述信息
      */
     String describe() default "";
+	
+	
+	
 }
  
