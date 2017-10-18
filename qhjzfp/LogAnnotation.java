@@ -1,4 +1,4 @@
-/**
+﻿/**
  * 甘肃省精准扶贫平台
  * 项目  JZFP-core 
  * 创建时间  2015-6-14 下午04:10:23 
@@ -34,7 +34,7 @@ public @interface LogAnnotation {
      */
     String describe() default "这是初次提交";
 	
-	
+	String describe() default "这是第二次提交";
 	
 }
  
