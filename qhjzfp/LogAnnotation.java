@@ -33,8 +33,11 @@ public @interface LogAnnotation {
      * 描述信息
      */
     String describe() default "这是初次提交";
+	String s ="这是第二次修改";
+
 	
-	
+	String describe() default "这是第二次提交";
+6ee962560df463df9d6c5fe8a904d7d28ee762c5
 	
 }
  
